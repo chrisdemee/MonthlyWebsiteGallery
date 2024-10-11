@@ -1,39 +1,35 @@
 p {
-    font-family: "bc-vajgar", sans-serif;
-    font-weight: 400;
-    font-style: normal;
+  font-family: "bc-vajgar", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: azure;
 }
 h5 {
-    font-family: "captain-comic", sans-serif;
-font-weight: 700;
-font-style: normal;
+  font-family: "captain-comic", sans-serif;
+  font-weight: 700;
+  font-style: normal;
 }
 .card {
-    background-color: rgb(230, 148, 27);
-    margin-right: auto;
-    margin-left: auto;  
-    box-shadow: 0 15px 25px rgba(129, 124, 124, 0.2);
-    border-radius: 5px;
-    background-color: rgba(211, 131, 11, 0.2);
-    text-align: center;
-    transition: 0.3s;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: rgb(118, 123, 158);
 }
 body {
-    background-image: url(https://i0.wp.com/wallpaperaccess.com/full/2825710.gif);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center center;
+  background-image: url(https://i0.wp.com/wallpaperaccess.com/full/2825710.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
 }
 .card:hover {
-    transform: scale(1.05);
-    transition: 0.3s;
+  transform: scale(1.05);
+  transition: 0.3s;
 }
 h1 {
-    font-family: "silver-northern", sans-serif;
-    font-weight: 400;
-    font-style: normal;
-    font-size: 80px;
+  font-family: "silver-northern", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 80px;
 }
 .navbar {
-background:none
+
 }
