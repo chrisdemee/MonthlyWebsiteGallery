@@ -1,36 +1,37 @@
 p {
-    font-family: "bc-vajgar", sans-serif;
-    font-weight: 400;
-    font-style: normal;
+  font-family: "bc-vajgar", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: azure;
 }
 h5 {
-    font-family: "captain-comic", sans-serif;
-font-weight: 700;
-font-style: normal;
+  font-family: "captain-comic", sans-serif;
+  font-weight: 700;
+  font-style: normal;
 }
 .card {
-    background-color: rgb(47, 78, 99);
+    background-color: rgb(125, 142, 221);
     margin-right: auto;
     margin-left: auto;  
     text-align: center;
     transition: 0.3s;
 }
 body {
-    background-image: url(https://i0.wp.com/wallpaperaccess.com/full/2825710.gif);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center center;
+  background-image: url(https://i0.wp.com/wallpaperaccess.com/full/2825710.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
 }
 .card:hover {
-    transform: scale(1.05);
-    transition: 0.3s;
+  transform: scale(1.05);
+  transition: 0.3s;
 }
 h1 {
-    font-family: "silver-northern", sans-serif;
-    font-weight: 400;
-    font-style: normal;
-    font-size: 80px;
+  font-family: "silver-northern", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 80px;
 }
 .navbar {
-background:none
+
 }
